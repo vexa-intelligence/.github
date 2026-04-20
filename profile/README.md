@@ -1,6 +1,6 @@
 <div align="center">
 
-![Vexa Banner](https://vexa-ai.pages.dev/public/assets/banner.png)
+![Vexa Banner](https://raw.githubusercontent.com/vexa-intelligence/ai/refs/heads/main/public/assets/banner.png)
 
 # Vexa Intelligence
 
